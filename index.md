@@ -1,5 +1,11 @@
 # Madhav's First CS193 Homework
 
+## Favorite Things About CS193
+- Epic teachers
+- Cool slides
+- Practical and technical information
+
+
 
 ## Welcome to GitHub Pages
 ## Hello
